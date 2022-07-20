@@ -1,2 +1,2 @@
-# EasyPC-Inspired-Database-Inventory-Sytem
+# EasyPC-Inspired-Database-Inventory-System
 DBMS , MYSQL , JAVA GUI - Inventory and Point of Sales
